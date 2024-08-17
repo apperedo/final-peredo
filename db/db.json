@@ -1,0 +1,129 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "nombre": "Acrobacia Aérea Infantil",
+      "horario": "17:00-18:00",
+      "dias": "ma,ju",
+      "precio": "210"
+    },
+    {
+      "id": "2",
+      "nombre": "Acrobacia Aérea",
+      "horario": "16:00-17:00",
+      "dias": "lu,mi,vi",
+      "precio": "280"
+    },
+    {
+      "id": "3",
+      "nombre": "Danza acrobática",
+      "horario": "17:00-18:00",
+      "dias": "lu,mi,vi",
+      "precio": "230"
+    },
+    {
+      "id": "4",
+      "nombre": "Parkour infantil",
+      "horario": "15:00-16:00",
+      "dias": "ma,ju",
+      "precio": "180"
+    },
+    {
+      "id": "5",
+      "nombre": "Parkour",
+      "horario": "16:00-17:00",
+      "dias": "ma,ju",
+      "precio": "200"
+    }
+  ],
+  "alumnos": [
+    {
+      "id": "2",
+      "nombre": "Luis García",
+      "genero": "M",
+      "direccion": "Calle Sauces 456",
+      "edad": "29",
+      "cursoId": "3"
+    },
+    {
+      "id": "3",
+      "nombre": "María López",
+      "genero": "F",
+      "direccion": "Calle Cafetales 123",
+      "edad": "18",
+      "cursoId": "2"
+    },
+    {
+      "id": "4",
+      "nombre": "Carlos Martínez",
+      "genero": "M",
+      "direccion": "Calle Girasoles 789",
+      "edad": "8",
+      "cursoId": "4"
+    },
+    {
+      "id": "5",
+      "nombre": "Laura Fernández",
+      "genero": "F",
+      "direccion": "Calle Rosas 101",
+      "edad": "25",
+      "cursoId": "5"
+    },
+    {
+      "id": "6",
+      "nombre": "Jorge Morales",
+      "genero": "M",
+      "direccion": "Calle Olivos 456",
+      "edad": "33",
+      "cursoId": "3"
+    },
+    {
+      "id": "7",
+      "nombre": "Paola Rodríguez",
+      "genero": "F",
+      "direccion": "Calle Mangales 123",
+      "edad": "12",
+      "cursoId": "1"
+    },
+    {
+      "id": "8",
+      "nombre": "Miguel Sánchez",
+      "genero": "M",
+      "direccion": "Calle Naranjas 789",
+      "edad": "27",
+      "cursoId": "2"
+    },
+    {
+      "id": "9",
+      "nombre": "Elena González",
+      "genero": "F",
+      "direccion": "Calle Lirios 101",
+      "edad": "24",
+      "cursoId": "3"
+    },
+    {
+      "id": "10",
+      "nombre": "Ricardo Ramírez",
+      "genero": "M",
+      "direccion": "Calle Girasoles 456",
+      "edad": "9",
+      "cursoId": "4"
+    },
+    {
+      "id": "6989",
+      "nombre": "Fabian Contreras",
+      "genero": "M",
+      "direccion": "Los Durazneros SN",
+      "edad": 22,
+      "cursoId": "3"
+    },
+    {
+      "id": "02c6",
+      "nombre": "Andres Moreira",
+      "genero": "M",
+      "direccion": "Sevillana 123",
+      "edad": 10,
+      "cursoId": "4"
+    }
+  ]
+}
