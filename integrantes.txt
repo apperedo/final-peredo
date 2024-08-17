@@ -1,0 +1,8 @@
+Practica1 Vue3
+Nombre(s) de integrante(s):
+- Ana Paola Peredo Barrientos
+Pasos para iniciar el proyecto
+1) npm install
+2) npm install --save axios vue-axios
+3) npm install -g  json-server@0.17.1
+2) npm run serve
